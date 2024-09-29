@@ -18,7 +18,7 @@ Este é um projeto de API desenvolvido com o framework <strong>Laravel</strong>.
 <li><strong>MySQL</strong>— Banco de dados utilizado para armazenamento de informações.</li>
 
 
-<h1>Tecnologias Utilizadas</h1>
+<h1>Requisitos</h1>
 <li>PHP >= 8.0</li>
 <li>Composer</li>
 <li>MySQL</li>
